@@ -1,0 +1,2 @@
+# zksyncnfts
+zkssync nfts
